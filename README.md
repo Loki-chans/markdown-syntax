@@ -298,9 +298,9 @@ Gián tiếp: [Github](https://github.com/Loki-chans)
 ```
 Kết quả:
 
-Trực tiếp: https://github.com/lucthienphong1120
+Trực tiếp: https://github.com/Loki-chans
 
-Gián tiếp: [Github](https://github.com/lucthienphong1120)
+Gián tiếp: [Github](https://github.com/Loki-chans)
 
 ### 3. Hình ảnh - Image
 
